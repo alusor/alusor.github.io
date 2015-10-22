@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+@import url(https://fonts.googleapis.com/css?family=Oswald:700);
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.full{
+	background: url("img/back.png") center  no-repeat;
+	height: 100vh;
+	background-size: cover;
+	padding: 0px;
+	margin: 0px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	width: 100vw;
+	font-family: 'Roboto', sans-serif;
+	color: #ecf0f1;
+
+}
+h1{
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	padding: 0px;
+}
